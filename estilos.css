@@ -3,4 +3,14 @@
     width: 70%;
     height: 500px;
     background-color: rgb(220, 164, 241);
+    border-radius: 40px;
+}
+.titulo{ 
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+    margin-top: auto;
+    color: rgb(67, 8, 122);
+   
 }
